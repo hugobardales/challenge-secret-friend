@@ -7,3 +7,5 @@ FUNCIONES
 2. Add friends: función para permitir al usuario agregar amigos a la lista.
 4. Raffle friends: Se implementa una función que selecciona aleatoriamente un amigo de la lista.
 
+![Image](https://github.com/user-attachments/assets/d48d3ba1-e67e-4175-b4bd-85f90c991305)
+
